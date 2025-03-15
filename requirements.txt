@@ -1,6 +1,5 @@
 streamlit==1.30.0
-chromadb==0.4.22
+qdrant-client
 sentence-transformers==2.2.2
 huggingface-hub==0.20.1
 email-validator==2.1.0
-
