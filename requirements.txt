@@ -1,4 +1,6 @@
 streamlit==1.30.0
-faiss-cpu==1.7.4
+chromadb==0.4.22
 sentence-transformers==2.2.2
+huggingface-hub==0.20.1
 email-validator==2.1.0
+
